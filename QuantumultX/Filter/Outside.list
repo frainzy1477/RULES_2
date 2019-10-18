@@ -5,6 +5,7 @@ USER-AGENT,Coinbase*,Outside
 USER-AGENT,Instagram*,Outside
 USER-AGENT,Resilio Sync*,Outside
 USER-AGENT,WhatsApp*,Outside
+HOST-SUFFIX,instagram.com,Outside
 
 # > Line
 HOST-SUFFIX,lin.ee,Outside
